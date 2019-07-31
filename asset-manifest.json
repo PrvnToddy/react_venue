@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/react_venue/static/css/main.cf548501.chunk.css",
+    "main.css": "/react_venue/static/css/main.39b9552b.chunk.css",
     "main.js": "/react_venue/static/js/main.0238f7ea.chunk.js",
     "main.js.map": "/react_venue/static/js/main.0238f7ea.chunk.js.map",
     "runtime~main.js": "/react_venue/static/js/runtime~main.2375cffa.js",
@@ -8,9 +8,9 @@
     "static/js/2.dae01f07.chunk.js": "/react_venue/static/js/2.dae01f07.chunk.js",
     "static/js/2.dae01f07.chunk.js.map": "/react_venue/static/js/2.dae01f07.chunk.js.map",
     "index.html": "/react_venue/index.html",
-    "precache-manifest.5365ce0f1485fc5f4d10381b5f24d7d5.js": "/react_venue/precache-manifest.5365ce0f1485fc5f4d10381b5f24d7d5.js",
+    "precache-manifest.1fd24736c1e7e4e9ca90a930db0e69ac.js": "/react_venue/precache-manifest.1fd24736c1e7e4e9ca90a930db0e69ac.js",
     "service-worker.js": "/react_venue/service-worker.js",
-    "static/css/main.cf548501.chunk.css.map": "/react_venue/static/css/main.cf548501.chunk.css.map",
+    "static/css/main.39b9552b.chunk.css.map": "/react_venue/static/css/main.39b9552b.chunk.css.map",
     "static/media/slide_one.jpg": "/react_venue/static/media/slide_one.45c81405.jpg",
     "static/media/slide_three.jpg": "/react_venue/static/media/slide_three.78a0f544.jpg",
     "static/media/slide_two.jpg": "/react_venue/static/media/slide_two.70cf2a45.jpg"
